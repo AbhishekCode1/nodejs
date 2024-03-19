@@ -13,3 +13,16 @@ app.listen(PORT,()=>{       //hmara server hmesa is port par start rahna chahiye
 })
 
 // use command node index1 to run this file
+
+
+// Same code in expressJs
+
+// const express = require('express')
+
+// const app = express();
+
+// const PORT = process.env.PORT || 3000;
+
+// app.listen(PORT, ()=>{
+//     console.log(`listening on the port ${PORT}`);
+// })
