@@ -18,6 +18,9 @@ const path = require('path')
 //   if(err){
 //     throw err
 //   }
+
+// Read a file
+
 //   fs.appendFile(path.join(__dirname,'test','test.txt'),'More data',(err)=>{
 //     if(err){
 //         throw err
